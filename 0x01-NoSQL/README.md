@@ -12,7 +12,7 @@
 
 ## Resources
 <details>
-<summary><b><a href="https://intranet.alxswe.com/rltoken/wweK7dOY4pf8haCqv9Iv6Q">NoSQL Databases Explained</a></b></summary><br>
+<summary><b><a href="https://riak.com/resources/nosql-databases/">NoSQL Databases Explained</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
