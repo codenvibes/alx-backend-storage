@@ -1163,7 +1163,7 @@ File: [100-average_weighted_score.sql]()
 ### 13. Average weighted score for all!
 `#advanced`
 
-File: []()
+File: [101-average_weighted_score.sql]()
 </summary>
 
 
