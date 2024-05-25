@@ -60,7 +60,7 @@
 
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/rltoken/lUqnLwOHbbp9FK39ijNmDQ">mongo Shell Methods</a></b></summary><br>
+<summary><b><a href="https://www.mongodb.com/docs/manual/reference/method/">mongo Shell Methods</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
