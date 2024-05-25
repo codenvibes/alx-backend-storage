@@ -1267,9 +1267,9 @@ File: [101-average_weighted_score.sql]()
 Write a SQL script that creates a stored procedure `ComputeAverageWeightedScoreForUsers` that computes and store the average weighted score for all students.
 
 **Requirements:**
-- Procedure ComputeAverageWeightedScoreForUsers is not taking any input.
+- Procedure `ComputeAverageWeightedScoreForUsers` is not taking any input.
 
-Tips:
+**Tips:**
 
 Calculate-Weighted-Average
 bob@dylan:~$ cat 101-init.sql
