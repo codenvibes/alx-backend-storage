@@ -36,7 +36,7 @@
 
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/rltoken/9__3tR-NimgXlmjPQwTF-Q">MongoDB Tutorial 2 : Insert, Update, Remove, Query</a></b></summary><br>
+<summary><b><a href="https://www.youtube.com/watch?v=CB9G5Dvv-EE">MongoDB Tutorial 2 : Insert, Update, Remove, Query</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
