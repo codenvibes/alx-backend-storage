@@ -20,7 +20,7 @@
 
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/rltoken/QqqNmgzgwopHBv305ki6bg">What is NoSQL ?</a></b></summary><br>
+<summary><b><a href="https://www.youtube.com/watch?v=qUV2j3XBRHc">What is NoSQL ?</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
