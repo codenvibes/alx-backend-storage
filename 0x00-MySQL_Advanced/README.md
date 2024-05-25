@@ -1151,7 +1151,7 @@ bob@dylan:~$
 ### 12. Average weighted score
 `#advanced`
 
-File: []()
+File: [100-average_weighted_score.sql]()
 </summary>
 
 
