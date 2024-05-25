@@ -52,7 +52,7 @@
 
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/rltoken/axwwF4CjO7FnK8Ecochqnw">Introduction to MongoDB and Python</a></b></summary><br>
+<summary><b><a href="https://realpython.com/introduction-to-mongodb-and-python/">Introduction to MongoDB and Python</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
