@@ -76,7 +76,7 @@
 
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/rltoken/X789nJ22H6HVh1uCQPl0lg">CREATE TABLE Statement</a></b></summary><br>
+<summary><b><a href="https://dev.mysql.com/doc/refman/5.7/en/create-table.html">CREATE TABLE Statement</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
