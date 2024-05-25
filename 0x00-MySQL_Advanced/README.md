@@ -20,7 +20,7 @@
 
 ## Resources
 <details>
-<summary><b><a href="https://intranet.alxswe.com/rltoken/8w9di_hk19DIMSBEV3EayQ">MySQL cheatsheet</a></b></summary><br>
+<summary><b><a href="https://devhints.io/mysql">MySQL cheatsheet</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
