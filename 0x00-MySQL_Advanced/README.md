@@ -181,6 +181,8 @@ SELECT id, name FROM students WHERE batch_id = 3 ORDER BY created_at DESC LIMIT 
 $
 </code></pre>
 
+<br>
+
 <h3>Use “container-on-demand” to run MySQL</h3>
 
 <ul>
@@ -204,6 +206,8 @@ $
 </code></pre>
 
 <strong>In the container, credentials are <code>root/root</code></strong>
+
+<br>
 
 <h3>How to import a SQL dump</h3>
 
