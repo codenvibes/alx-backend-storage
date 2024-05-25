@@ -52,7 +52,7 @@
 
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/rltoken/vHg1z3UAOcWMvOt8xZHeiA">Views</a></b></summary><br>
+<summary><b><a href="https://www.w3resource.com/mysql/mysql-views.php">Views</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
