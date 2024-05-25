@@ -1163,6 +1163,7 @@ Write a SQL script that creates a stored procedure `ComputeAverageWeightedScoreF
 **Tips:**
 - [Calculate-Weighted-Average](https://www.wikihow.com/Calculate-Weighted-Average)
 
+```
 bob@dylan:~$ cat 100-init.sql
 -- Initial
 DROP TABLE IF EXISTS corrections;
@@ -1250,6 +1251,7 @@ id  name    average_score
 1   Bob 0
 2   Jeanne  79
 bob@dylan:~$ 
+```
 
 </details>
 
