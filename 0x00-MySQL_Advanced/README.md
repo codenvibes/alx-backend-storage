@@ -60,7 +60,7 @@
 
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/rltoken/g-c1m6iljScpi4LeqxBRqQ">Functions and Operators</a></b></summary><br>
+<summary><b><a href="https://dev.mysql.com/doc/refman/5.7/en/functions.html">Functions and Operators</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
