@@ -36,7 +36,7 @@
 
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/rltoken/K180X2OCzb6gzPngjn-EIg">Stored Procedure</a></b></summary><br>
+<summary><b><a href="https://www.w3resource.com/mysql/mysql-procedure.php">Stored Procedure</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
