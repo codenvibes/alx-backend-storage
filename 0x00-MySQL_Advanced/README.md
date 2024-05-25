@@ -28,7 +28,7 @@
 
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/rltoken/2GJbZ48zRPA70o2YhTdH7g">MySQL Performance: How To Leverage MySQL Database Indexing</a></b></summary><br>
+<summary><b><a href="https://www.liquidweb.com/kb/mysql-optimization-how-to-leverage-mysql-database-indexing/">MySQL Performance: How To Leverage MySQL Database Indexing</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
