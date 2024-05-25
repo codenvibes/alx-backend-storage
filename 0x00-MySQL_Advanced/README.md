@@ -44,7 +44,7 @@
 
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/rltoken/cJ1qA4o-rRm4rWIsqYKSZg">Triggers</a></b></summary><br>
+<summary><b><a href="https://www.w3resource.com/mysql/mysql-triggers.php">Triggers</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
