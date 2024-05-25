@@ -1161,7 +1161,7 @@ Write a SQL script that creates a stored procedure `ComputeAverageWeightedScoreF
     - `user_id`, a `users.id` value (you can assume `user_id` is linked to an existing `users`)
 
 **Tips:**
-- Calculate-Weighted-Average
+- [Calculate-Weighted-Average](https://www.wikihow.com/Calculate-Weighted-Average)
 
 bob@dylan:~$ cat 100-init.sql
 -- Initial
