@@ -1,6 +1,14 @@
 <h1 align="center"><b>0X00. MYSQL ADVANCED</b></h1>
 <div align="center"><code>Back-end</code> <code>SQL</code> <code>MySQL</code></div>
 
+## Concepts
+<details>
+<summary><b><a href="https://intranet.alxswe.com/rltoken/8w9di_hk19DIMSBEV3EayQ">MySQL cheatsheet</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
 <!-- <br>
 <hr>
 <h3><a href=>Notes</a></h3>
