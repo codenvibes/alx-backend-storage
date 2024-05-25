@@ -68,7 +68,7 @@
 
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/rltoken/gLVwKjQfRL0Jr_nWqAS7VQ">Trigger Syntax and Examples</a></b></summary><br>
+<summary><b><a href="https://dev.mysql.com/doc/refman/5.7/en/trigger-syntax.html">Trigger Syntax and Examples</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
