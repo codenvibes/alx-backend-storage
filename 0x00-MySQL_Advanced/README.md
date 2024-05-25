@@ -100,7 +100,7 @@
 
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/rltoken/FEZNlZFKZmD1ISnLINkCwQ">CREATE VIEW Statement</a></b></summary><br>
+<summary><b><a href="https://dev.mysql.com/doc/refman/5.7/en/create-view.html">CREATE VIEW Statement</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
