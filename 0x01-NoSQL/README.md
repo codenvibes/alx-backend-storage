@@ -28,7 +28,7 @@
 
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/rltoken/RyyP9OH1EMBWWYpTs4TqoA">MongoDB with Python Crash Course - Tutorial for Beginners</a></b></summary><br>
+<summary><b><a href="https://www.youtube.com/watch?v=E-1xI85Zog8">MongoDB with Python Crash Course - Tutorial for Beginners</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
