@@ -1270,8 +1270,9 @@ Write a SQL script that creates a stored procedure `ComputeAverageWeightedScoreF
 - Procedure `ComputeAverageWeightedScoreForUsers` is not taking any input.
 
 **Tips:**
+- Calculate-Weighted-Average
 
-Calculate-Weighted-Average
+```
 bob@dylan:~$ cat 101-init.sql
 -- Initial
 DROP TABLE IF EXISTS corrections;
