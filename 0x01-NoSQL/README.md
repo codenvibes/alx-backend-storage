@@ -68,7 +68,7 @@
 
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/rltoken/ipHIVVmAsezINqpk7W0eow">Mongosh</a></b></summary><br>
+<summary><b><a href="https://www.mongodb.com/docs/mongodb-shell/#mongodb-binary-bin.mongosh">Mongosh</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
