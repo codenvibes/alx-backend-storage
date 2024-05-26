@@ -38,7 +38,7 @@
 
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/rltoken/7SluvFvgckwVgsvrfOf1CQ">How to Use Redis With Python</a></b></summary><br>
+<summary><b><a href="https://realpython.com/python-redis/">How to Use Redis With Python</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
