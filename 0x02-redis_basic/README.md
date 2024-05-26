@@ -30,7 +30,7 @@
 
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/rltoken/imfgFhAZPlg7YMZ_tHvFZw">Redis python client</a></b></summary><br>
+<summary><b><a href="https://redis-py.readthedocs.io/en/stable/">Redis python client</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
