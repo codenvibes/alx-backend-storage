@@ -14,7 +14,7 @@
 
 ## Resources
 <details>
-<summary><b><a href="https://intranet.alxswe.com/rltoken/hJVo3XwMMFFoApyX8zPXvA">Redis Crash Course Tutorial</a></b></summary><br>
+<summary><b><a href="https://www.youtube.com/watch?v=Hbt56gFj998">Redis Crash Course Tutorial</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
