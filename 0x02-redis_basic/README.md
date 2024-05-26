@@ -22,7 +22,7 @@
 
 
 <details>
-<summary><b><a href="https://intranet.alxswe.com/rltoken/oauvbRmxM12SxvimzqhrOg">Redis commands</a></b></summary><br>
+<summary><b><a href="https://redis.io/docs/latest/commands/">Redis commands</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
