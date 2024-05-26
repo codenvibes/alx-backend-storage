@@ -1,6 +1,8 @@
 <h1 align="center"><b>0X02. REDIS BASIC</b></h1>
 <div align="center"><code>Back-end</code> <code>Redis</code></div>
 
+<br><div align="center"><img src="https://github.com/codenvibes/alx-backend-storage/blob/master/0x02-redis_basic/images/40eab4627f1bea7dfe5e.png"></div><br>
+
 <!-- <br>
 <hr>
 <h3><a href=>Notes</a></h3>
